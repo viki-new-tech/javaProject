@@ -10,7 +10,7 @@ public class Gopal {
 	}
 	public void method2() {
 		
-		System.out.println("vignesh and gopal tester");
+		System.out.println("vignesh and rajesh and avitha");
 	}
 	
 	public static void main(String[] args) {
