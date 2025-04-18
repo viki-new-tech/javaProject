@@ -5,12 +5,12 @@ public class Gopal {
 	
 	public void method1()
 	{
-		System.out.println("Vignesh and rajesh and arvind and ramesh");
+		System.out.println("Vignesh ");
 		
 	}
 	public void method2() {
 		
-		System.out.println("vignesh and rajesh and avitha");
+		System.out.println("vignesh ");
 	}
 	
 	public static void main(String[] args) {
