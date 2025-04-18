@@ -10,7 +10,7 @@ public class Gopal {
 	}
 	public void method2() {
 		
-		System.out.println("vignesh software tester");
+		System.out.println("vignesh and gopal tester");
 	}
 	
 	public static void main(String[] args) {
