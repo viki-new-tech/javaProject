@@ -5,7 +5,7 @@ public class Gopal {
 	
 	public void method1()
 	{
-		System.out.println("Gopal class");
+		System.out.println("Vignesh class");
 		
 	}
 	public void method2() {
