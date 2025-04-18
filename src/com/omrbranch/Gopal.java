@@ -5,7 +5,7 @@ public class Gopal {
 	
 	public void method1()
 	{
-		System.out.println("Gopal class");
+		System.out.println("Gopal class viki ramesh");
 		
 	}
 	public void method2() {
